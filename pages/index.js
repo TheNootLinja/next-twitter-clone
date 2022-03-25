@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
       <main style={{height: 2000}}>
         <Header />
-        <div className='h-px bg-zinc-700'/>
+        <div className='h-px bg-zinc-800'/>
       </main>
     </div>
   )
